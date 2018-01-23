@@ -7,6 +7,8 @@ from .models import Post
 # . - is for current/same directory
 #import the name of the model
 
+from django.utils import timezone
+
 
 # Create your views here.
 
